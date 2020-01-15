@@ -6,6 +6,7 @@ INJECTED from D:\Downloads\android-fundamentals-starter-apps-v2-master\android-f
 INJECTED from D:\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\terrassa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1690b9e7ad097ce3715dd36881f662db\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\terrassa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9bfcd4a36757f4aaacd0effaa922ac9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\terrassa\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\c429bac4b7684aa18b29e3f826e8753e\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\terrassa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f66f849326941ae099af52da41565f3a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\terrassa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\74d908e7c6956cff9f7326c288809d55\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\terrassa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e34bee8b58825fda192279b4c9d93db6\AndroidManifest.xml:17:1-22:12
@@ -67,6 +68,8 @@ MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\terrassa\.gradle\
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\terrassa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1690b9e7ad097ce3715dd36881f662db\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\terrassa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9bfcd4a36757f4aaacd0effaa922ac9e\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\terrassa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\9bfcd4a36757f4aaacd0effaa922ac9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\terrassa\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\c429bac4b7684aa18b29e3f826e8753e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\terrassa\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\c429bac4b7684aa18b29e3f826e8753e\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\terrassa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f66f849326941ae099af52da41565f3a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\terrassa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f66f849326941ae099af52da41565f3a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\terrassa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\74d908e7c6956cff9f7326c288809d55\AndroidManifest.xml:20:5-44
