@@ -2,7 +2,7 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-<android.support.constraint.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -38,5 +38,5 @@
         android:padding="16dp"
         android:layout_below="@id/newsTitleDetail"
         style="@style/TextAppearance.AppCompat.Subhead" />
-</android.support.constraint.RelativeLayout>
+</RelativeLayout>
 </ScrollView>

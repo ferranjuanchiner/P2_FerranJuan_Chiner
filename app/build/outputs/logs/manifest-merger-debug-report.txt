@@ -49,7 +49,7 @@ MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\te
 		ADDED from D:\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\MaterialMe-Starter\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from D:\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\MaterialMe-Starter\app\src\main\AndroidManifest.xml:10:9-40
-activity#com.example.android.P2_JuanChiner_Ferran.DetailAcrivity
+activity#com.example.android.P2_JuanChiner_Ferran.DetailActivity
 ADDED from D:\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:9-61
 	android:name
 		ADDED from D:\Downloads\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:19-49

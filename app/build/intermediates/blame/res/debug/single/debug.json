@@ -296,10 +296,6 @@
         "source": "C:\\Users\\terrassa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\1690b9e7ad097ce3715dd36881f662db\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "D:\\Downloads\\android-fundamentals-starter-apps-v2-master\\android-fundamentals-starter-apps-v2-master\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_acrivity.xml.flat",
-        "source": "D:\\Downloads\\android-fundamentals-starter-apps-v2-master\\android-fundamentals-starter-apps-v2-master\\MaterialMe-Starter\\app\\src\\main\\res\\layout\\activity_detail_acrivity.xml"
-    },
-    {
         "merged": "D:\\Downloads\\android-fundamentals-starter-apps-v2-master\\android-fundamentals-starter-apps-v2-master\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\terrassa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\1690b9e7ad097ce3715dd36881f662db\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
@@ -1150,6 +1146,10 @@
     {
         "merged": "D:\\Downloads\\android-fundamentals-starter-apps-v2-master\\android-fundamentals-starter-apps-v2-master\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
         "source": "C:\\Users\\terrassa\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\1690b9e7ad097ce3715dd36881f662db\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\android-fundamentals-starter-apps-v2-master\\android-fundamentals-starter-apps-v2-master\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "D:\\Downloads\\android-fundamentals-starter-apps-v2-master\\android-fundamentals-starter-apps-v2-master\\MaterialMe-Starter\\app\\src\\main\\res\\layout\\activity_detail.xml"
     },
     {
         "merged": "D:\\Downloads\\android-fundamentals-starter-apps-v2-master\\android-fundamentals-starter-apps-v2-master\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
